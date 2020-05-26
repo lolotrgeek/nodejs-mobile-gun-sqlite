@@ -7,6 +7,7 @@ A nodejs-mobile implementation [setup to load from a project folder](https://git
 A node <> native bridge exposing a native SQLite implementation, a few will be added to this repo soon.
 
 https://github.com/lolotrgeek/nodejs-mobile-android-bridge
+
 https://github.com/lolotrgeek/nodejs-mobile-sqlite
 
 ## Installation
@@ -38,6 +39,6 @@ const gun = new Gun({
 
 sqlite bindings based on https://github.com/xpbrew/cordova-sqlite-express-build-support
 
-General functionality from [gun-react-native-sqlite] (https://github.com/lolotrgeek/gun-react-native-sqlite)
+General functionality from https://github.com/lolotrgeek/gun-react-native-sqlite
 
-For api structure from [sqlite3] (https://github.com/mapbox/node-sqlite3)
+Api structure from https://github.com/mapbox/node-sqlite3
